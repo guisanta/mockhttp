@@ -13,5 +13,10 @@ namespace RichardSzalay.MockHttp.Tests
 
 		}
 
+		public void test2()
+		{
+
+		}
+
 	}
 }
