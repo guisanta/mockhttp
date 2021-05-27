@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RichardSzalay.MockHttp.Tests
 {
-	class StubTests
+	internal class StubTests
 	{
 		public void test1()
 		{
