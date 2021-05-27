@@ -83,6 +83,7 @@
     <Compile Include="..\AssemblyVersionInfo.cs" Condition="Exists('..\AssemblyVersionInfo.cs')">
       <Link>Properties\AssemblyVersionInfo.cs</Link>
     </Compile>
+    <Compile Include="StubTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
