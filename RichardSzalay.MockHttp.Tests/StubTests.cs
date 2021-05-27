@@ -8,5 +8,10 @@ namespace RichardSzalay.MockHttp.Tests
 {
 	class StubTests
 	{
+		public void test1()
+		{
+
+		}
+
 	}
 }
